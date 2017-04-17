@@ -13,7 +13,7 @@ La principal característica de esta página web es que es incrusta un video de 
 
 ![Desktop](https://raw.githubusercontent.com/ginppian/PaginaEgresados/master/web2.png)
 <p align="center">
-  <img src="https://github.com/ginppian/PaginaEgresados/blob/master/mov2.png" style="width:284px;height:160px;">
+  <img src="https://github.com/ginppian/PaginaEgresados/blob/master/mov2.png =284x160">
 </p>
 
 
