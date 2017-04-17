@@ -13,7 +13,7 @@ La principal característica de esta página web es que es incrusta un video de 
 
 ![Desktop](https://raw.githubusercontent.com/ginppian/PaginaEgresados/master/web2.png)
 
-![Móvil](https://github.com/ginppian/PaginaEgresados/blob/master/movil1.PNG)
+->![Móvil](https://github.com/ginppian/PaginaEgresados/blob/master/movil1.PNG)<-
 ![Móvil](https://github.com/ginppian/PaginaEgresados/blob/master/movil1.PNG)
 
 ## Live
