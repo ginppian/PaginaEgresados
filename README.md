@@ -18,5 +18,8 @@ La principal característica de esta página web es que es incrusta un video de 
   <img src="https://github.com/ginppian/PaginaEgresados/blob/master/mov3.PNG" width="320" height="568" />
 </p>
 
+### Desarrollado Por
+@ginppian
+
 ## Live
 [Encuentro Egresados Estomatología BUAP](https://nut.com.mx/ginppian/estoma/egresados)
